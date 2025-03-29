@@ -9,4 +9,6 @@ Análise da série temporal da média de riscos de fogos diariamente no Brasil n
 No processo de modelagem foram utilizados os modelos SARIMA, SARIMAX e Redes Neurais Long short-term memory (LSTM).
 Os dados foram disponibilizados pelo Instituto Nacional de Pesquisas Espaciais (INPE) e podem ser acessados na seguinte fonte: **https://www.kaggle.com/datasets/mayaravalliero/fire-watch-brazil-2024**.
 
+Para ter acesso ao projeto é preciso acessar o arquivo serie_temporal_incendios.ipynb pelo próprio editor do GitHub ou baixar a versão em HTML.
+
 Caso queira editar diretamente o notebook é possível acessar pela plataforma Kaggle no seguinte link: https://www.kaggle.com/code/jairsouza/serie_temp_fogos
