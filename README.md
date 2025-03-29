@@ -11,4 +11,4 @@ Os dados foram disponibilizados pelo Instituto Nacional de Pesquisas Espaciais (
 
 Para ter acesso ao projeto é preciso acessar o arquivo serie_temporal_incendios.ipynb pelo próprio editor do GitHub ou baixar a versão em HTML.
 
-Caso queira editar diretamente o notebook é possível acessar pela plataforma Kaggle no seguinte link: https://www.kaggle.com/code/jairsouza/serie_temp_fogos
+Caso queira editar diretamente o notebook é possível acessar pela plataforma Kaggle no seguinte link: **https://www.kaggle.com/code/jairsouza/s-rie-temporal-inc-ndios**
